@@ -25,4 +25,4 @@ console.log(+undefined) // NaN since undefined cannot be converted to a number
 
 let x = 2;
 console.log(x++);  
-console.log(++x); // 3 since x incremented by 1 after the first console
+console.log(++x); // 4 since x incremented by 1 after the first console
